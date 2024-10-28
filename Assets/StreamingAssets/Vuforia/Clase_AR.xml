@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="End" size="1.000000 0.562500" />
+    <ImageTarget name="Overworld" size="1.000000 1.000000" />
+    <ImageTarget name="PortalNether" size="1.000000 1.000000" />
+    <ImageTarget name="Portalend" size="1.000000 0.562222" />
     <ImageTarget name="image_q-rgbutb_1711655157400_raw" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>
